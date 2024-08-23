@@ -112,8 +112,13 @@ background-color: #2e2f42;
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
-        text-aligngit: center;
+        text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
+
+}
+.team-item{
+    background-color: #FFFFFF;
 }
 .team-name-title{
     
@@ -143,6 +148,7 @@ background-color: #2e2f42;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize
 }
  
 .titles-portfolio{
